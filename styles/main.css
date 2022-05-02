@@ -1,0 +1,23 @@
+#container{
+    display: flex;
+    border: 1px solid black;
+}
+#sidebar{
+    border:1px solid black
+}
+div>img{
+    height: 200px;
+    width: 500px;
+}
+#blog{
+    display: flex;
+    box-sizing: border-box;
+    
+    
+}
+#blog>div{
+    border: 1px solid rgba(0, 0, 0, 0.596);
+}
+#main{
+    gap: 30px;
+}
